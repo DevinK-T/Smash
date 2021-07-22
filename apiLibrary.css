@@ -1,0 +1,30 @@
+.button1{
+
+    text-align: right;
+    font-size: 30px;
+    display: block;
+    padding: 25px 23px;
+    float: right; 
+    margin: px;
+    padding: 25px 23px;
+    color: lightgreen;
+    background-color: #469BF4 ;
+    text-decoration: none;
+    font-family: 'Slabo 27px', serif;
+
+}
+
+.button1:hover { 
+    color: #5F63F7;
+}
+
+.active {
+  background-color: white;
+}
+
+.logo{
+    height: 190px;
+    width: 211.5px;
+    background-color: white;
+  
+  }

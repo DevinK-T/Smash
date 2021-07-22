@@ -1,0 +1,173 @@
+body{
+    background-color: #469BF4;
+    font-family: 'Nanum+gothic',sans-serif;
+}
+
+.button1{
+
+  text-align: right;
+  font-size: 30px;
+  display: block;
+  padding: 25px 23px;
+  float: right; 
+  margin: px;
+  padding: 25px 23px;
+  color: lightgreen;
+  background-color: #469BF4 ;
+  text-decoration: none;
+  font-family: 'Slabo 27px', serif;
+
+    /* padding: 10px;
+
+px;
+    border-style: solid;
+    border-radius: 100px;
+    width: 200px;
+    text-align: center;
+    color: #469BF4;
+    overflow: hidden;
+    float: right; */
+
+   
+}
+
+.button1:hover { 
+    color: #5F63F7;
+}
+
+.active {
+  background-color: white;
+}
+
+.header{
+    color:#4F87F5;
+   
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center; 
+    text-shadow: 2px 2px lightgreen;
+  
+}
+.square {
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    padding: 80px; /* if you want space between the images */
+    border: 2px solid #469BF4;
+    border-radius: 5px;
+  }
+  
+  .square2 {
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    padding: 80px; /* if you want space between the images */
+    border: 2px solid #469BF4;
+    border-radius: 5px;
+    
+  }
+
+  .square3 {
+    height: 500px;
+    width: 300px;
+    background-color: white;
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    padding: 80px; /* if you want space between the images */
+    border: 2px solid #469BF4;
+     border-radius: 5px;
+  }
+ 
+/* a vertical nav bar  */
+  
+  ul {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 0;
+    width: 20%;
+    height: inherit;
+    background-color: #f1f1f1;
+  }
+  
+  li a {
+    display: block;
+    color:#469BF4;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: white;
+    color: lightgreen;
+  }
+  li a:hover:not(.active) {
+    background-color: #f1f1f1;
+  }
+  .active {
+    background-color: #469BF4;
+    color: white;
+  }
+
+  .testButton{
+    height: 50px;
+    width: 200px;
+    float: left;
+    
+}
+.API{
+  text-align: right;
+}
+.Contract{
+  text-align: left;
+}
+.Shell{
+  text-align: center;
+}
+.logo{
+  height: 190px;
+  width: 211.5px;
+  background-color: white;
+
+}
+.consoleSquare {
+  height: 200px;
+  width: 280px;
+  background-color: whitesmoke;
+  float: right;
+  width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  border: 2px solid #469BF4;
+  border-radius: 5px;
+}
+.previewButton{
+  float: right;
+}
+.consoleSquare2 {
+  height: 200px;
+  width: 280px;
+  background-color: whitesmoke;
+  float: left;
+  width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  border: 2px solid #469BF4;
+  border-radius: 5px;
+}
+.consoleSquare3 {
+  height: 200px;
+  width: 280px;
+  background-color: whitesmoke;
+  float: right;
+  width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  border: 2px solid #469BF4;
+  border-radius: 5px;
+}
+.previewButtonS{
+  float: right;
+}
+
+.previewButtonC{
+  float: right;
+}
+

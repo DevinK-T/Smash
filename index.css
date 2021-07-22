@@ -1,0 +1,119 @@
+.button1{
+
+    text-align: right;
+    font-size: 30px;
+    display: block;
+    padding: 25px 23px;
+    float: right; 
+    margin: px;
+    padding: 25px 23px;
+    color: lightgreen;
+    background-color: #469BF4 ;
+    text-decoration: none;
+    font-family: 'Slabo 27px', serif;
+  
+      /* padding: 10px;
+  
+  px;
+      border-style: solid;
+      border-radius: 100px;
+      width: 200px;
+      text-align: center;
+      color: #469BF4;
+      overflow: hidden;
+      float: right; */
+  
+     
+  }
+
+  .logo{
+    height: 190px;
+    width: 211.5px;
+    background-color: white;
+  
+  }
+  .header{
+    color:#4F87F5;
+   
+    text-decoration: none;
+    font-weight: 600;
+    text-align: center; 
+    text-shadow: 2px 2px lightgreen;
+  
+}
+
+/* .circle {
+    height: 700px;
+    width: 750px;
+    background-color: #E135BB;
+    border-radius: 50%;
+    margin-top: 100;
+    cx: 500;
+    cy: 500;
+  } */
+
+  .rectangle1 {
+    height: 200px;
+    width: 150px;
+    background-image: radial-gradient(#469BF4,#9D58F3);  
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+  }
+
+  .rectangle2 {
+    height: 200px;
+    width: 1500px;
+    background-image: radial-gradient(#469BF4,#9D58F3);  
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+  }
+
+  .rectangle3 {
+    height: 200px;
+    width: 150px;
+    background-image: radial-gradient(#469BF4,#9D58F3);  
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+  }
+
+  .rectangle4 {
+    height: 200px;
+    width: 150px;
+    background-image: radial-gradient(#469BF4,#9D58F3);  
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+  }
+
+  .rectangle5 {
+    height: 200px;
+    width: 150px;
+    background-image: radial-gradient(#469BF4,#9D58F3);  
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+  }
+
+  .rectangle6 {
+    height: 200px;
+    width: 150px;
+    float: right;
+    width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+    height: 200px;
+    background-image: radial-gradient(#469BF4,#9D58F3);  }
+  .p{
+    font-weight: 300;
+    font-size: 30px;
+
+  }
+
